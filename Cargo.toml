@@ -1,0 +1,12 @@
+[package]
+name = "bibfzf"
+version = "18.11.0"
+authors = ["fg1"]
+
+[dependencies]
+lazy_static = "1.2.0"
+regex = "1"
+nom-bibtex = "0.2.0"
+clap = "2.32.0"
+prettytable-rs = "0.8.0"
+skim = "0.5.2"
