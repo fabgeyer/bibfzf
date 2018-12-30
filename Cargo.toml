@@ -1,7 +1,7 @@
 [package]
 name = "bibfzf"
-version = "18.11.0"
-authors = ["fg1"]
+version = "18.12.0"
+authors = ["fg"]
 
 [dependencies]
 lazy_static = "1.2.0"
@@ -10,3 +10,6 @@ nom-bibtex = "0.2.0"
 clap = "2.32.0"
 prettytable-rs = "0.8.0"
 skim = "0.5.2"
+config = "0.9.1"
+dirs = "1.0.4"
+glob = "0.2.11"
